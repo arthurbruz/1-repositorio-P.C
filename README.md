@@ -5,6 +5,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
+<style>
+body{background-color: black;}
+p{font-style:italic;}
+h1{color:azure}
+p{color:azure}
+p{font-size: larger;}
+
+</style>
 <body>
     <h1>sobre michael phelps</h1>
     <p> Michael Phelps havia anunciado o fim da carreira há quatro anos, após os Jogos Olímpicos de Londres. Deixou as piscinas por dois anos, enfrentou depressão, problemas com drogas e chegou a ser condenado a 18 meses de prisão por dirigir embriagado – não precisou cumprir a pena porque ganhou liberdade condicional. </p>
