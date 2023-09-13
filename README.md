@@ -23,9 +23,104 @@ h3{color: azure;}
     <p> Homem ou peixe? Além do talento, Phelps teve uma ajudinha da genética. Seu tronco é enorme (mais de 1,70m), e os braços extremante compridos (2,01m de envergadura). Ele é maior de braços abertos do que de altura (1,93m). </p>
     <p> Quantos recordes Michael Phelps quebrou? Este é um dos 16 recordes que Michael Phelps apresenta na sua longa lista do Livro Guiness. Confira cada um abaixo: * Maior número de recordes mundiais batidos por um nadador no masculino (39 recordes mundiais). * Maior número de medalhas de ouro olímpicas em provas individuais (13) </p>
     <h2>Quantas medalhas phelps tem?</h2>
-    <p>Este é um dos 16 recordes que Michael Phelps apresenta na sua longa lista do Livro Guiness. Confira cada um abaixo: * Maior número de recordes mundiais batidos por um nadador no masculino (39 recordes mundiais). * Maior número de medalhas de ouro olímpicas em provas individuais (13).</p>
+    <p>Este é um dos 16 recordes que Michael Phelps apresenta na sua longa lista do Livro Guiness. Confira cada um abaixo: * Maior número de recordes mundiais batidos por um nadador no masculino (39 recordes mundiais). * Maior número de <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    body{background-color: black;}
+    p{font-style:italic;}
+    h1{color:azure}
+    p{color:rgb(0, 255, 255)}
+    p{font-size: larger;}
+    h2{color: azure;}
+    h3{color: azure;}
+    
+    </style>
+    <body>
+       <h1>TUDO SOBRE O JOGO GRAALONLINECLASSIC</h1>
+       <p>graal online clissico é um online com multiplas missões em que você pode fazer, e guildas que você pode entrar.</p>
+       <h2>missões</h2>
+    <h3></h3>
+</body>
+</html>medalhas de ouro olímpicas em provas individuais (13).</p>
     <h3>record de phelps na olimpiada 2008</h3>
     <p>A marca de Phelps de 4min03s84 foi estabelecido na final olímpica dos Jogos de Pequim-2008 e é o mais antigo em vigor na piscina de 50 metros e considerado um dos recordes “mais difíceis” de serem superados por muitos especialistas.</p>
 
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+segundo site
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    body{background-color: black;}
+    p{font-style:italic;}
+    h1{color:rgb(255, 0, 0)}
+    p{color:rgb(0, 255, 255)}
+    p{font-size: larger;}
+    h2{color: rgb(255, 0, 0);}<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    body{background-color: black;}
+    p{font-style:italic;}
+    h1{color:azure}
+    p{color:rgb(0, 255, 255)}
+    p{font-size: larger;}
+    h2{color: azure;}
+    h3{color: azure;}
+    
+    </style>
+    <body>
+       <h1>TUDO SOBRE O JOGO GRAALONLINECLASSIC</h1>
+       <p>graal online clissico é um online com multiplas missões em que você pode fazer, e guildas que você pode entrar.</p>
+       <h2>missões</h2>
+    <h3></h3>
+</body>
+</html>
+    h3{color: rgb(253, 0, 0);}
+    
+    </style>
+    <body>
+       <h1>TUDO SOBRE O JOGO GRAALONLINECLASSIC</h1>
+       <p>graal online clissico é um online com multiplas missões em que você pode fazer, e guildas que você pode entrar.</p>
+       <h2>missões</h2>
+    <h3>missão do feitiço em que você vira um rato</h3>
+    <p></p>
 </body>
 </html>
