@@ -14,6 +14,22 @@ p{font-size: larger;}
 h2{color: azure;}
 h3{color: azure;}
 h4{color:rgb(255, 255, 255)}
+p{ border: 10px solid blue;
+    background-color: rgb(0, 0, 0);
+}
+h1{ border: 5px solid rgb(0, 255, 21);
+    background-color: rgb(0, 0, 0);
+}
+h2{ border: 5px solid rgb(0, 255, 21);
+    background-color: rgb(0, 0, 0);
+}
+h3{ border: 5px solid rgb(0, 255, 21);
+    background-color: rgb(0, 0, 0);
+}
+h4{ border: 5px solid rgb(255, 0, 0);
+    background-color: rgb(0, 0, 0);
+}
+
 
 </style>
 
@@ -119,13 +135,4 @@ h4{color:rgb(255, 255, 255)}
     
     Este é o padrão de respiração utilizado pelos nadadores em forma e competição. Por outro lado, nadadores mais casuais podem manter a cabeça acima da água o tempo todo e respirar livremente.</p>    
 
-
-
-
-
-
-
-
-
-
-    </body>
+</body>
